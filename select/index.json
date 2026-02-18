@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "☪『ゴーストルール』 を歌ってみた。by天月",
+  "base_artist": "天月-あまつき-",
+  "createdAt": "2026-02-18T08:17:29.277976Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "☪ミリオンダラードリーマー",
+      "artist": "天月",
+      "has_synced": false,
+      "path": "select/pl_01_☪ミリオンダラードリーマー_天月.txt"
+    }
+  ]
+}
